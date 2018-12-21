@@ -1,4 +1,4 @@
-package com.guoyasoft.gyautotest;
+/*package com.guoyasoft.gyautotest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,4 +9,4 @@ public class GyAutoTestApplication {
   public static void main(String[] args) {
     SpringApplication.run(GyAutoTestApplication.class, args);
   }
-}
+}*/
