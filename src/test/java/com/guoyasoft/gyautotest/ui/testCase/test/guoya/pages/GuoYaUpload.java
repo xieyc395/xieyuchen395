@@ -18,7 +18,6 @@ public class GuoYaUpload extends BaseUI {
   private WebElement imgUpload;
 
   public void clickImgUpload(WebDriver driver) {
-//       click(imgUpload);
     sendKeys(imgUpload,"C:/Users/guoya/Desktop/搜狗截图20181128145549.png");
 
 

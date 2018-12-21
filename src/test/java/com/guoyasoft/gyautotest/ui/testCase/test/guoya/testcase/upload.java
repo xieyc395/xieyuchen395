@@ -51,10 +51,10 @@ public class upload extends BaseUI {
 //    jss.executeScript(js);
 //    sleep(3);
 
-    WebElement ulbutton = driver.findElement(By.xpath("//input[@id='uploadFileBtn']"));
-    click(ulbutton);
-    Alert alert = driver.switchTo().alert();
-    alert.accept();
+//    WebElement ulbutton = driver.findElement(By.xpath("//input[@id='uploadFileBtn']"));
+//    click(ulbutton);
+//    Alert alert = driver.switchTo().alert();
+//    alert.accept();
     sleep(3);
   }
 }
